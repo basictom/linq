@@ -1,0 +1,8 @@
+/Users/Basic/Workspace/csharp/linq/bin/Debug/netcoreapp1.1/linq.deps.json
+/Users/Basic/Workspace/csharp/linq/bin/Debug/netcoreapp1.1/linq.runtimeconfig.json
+/Users/Basic/Workspace/csharp/linq/bin/Debug/netcoreapp1.1/linq.runtimeconfig.dev.json
+/Users/Basic/Workspace/csharp/linq/bin/Debug/netcoreapp1.1/linq.dll
+/Users/Basic/Workspace/csharp/linq/bin/Debug/netcoreapp1.1/linq.pdb
+/Users/Basic/Workspace/csharp/linq/obj/Debug/netcoreapp1.1/linq.AssemblyInfo.cs
+/Users/Basic/Workspace/csharp/linq/obj/Debug/netcoreapp1.1/linq.dll
+/Users/Basic/Workspace/csharp/linq/obj/Debug/netcoreapp1.1/linq.pdb
