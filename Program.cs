@@ -104,6 +104,8 @@ namespace linq
                     Console.WriteLine($"{z.Bank}: {z.Name.Count()}");
                 }
 
+                Console.WriteLine("FUCKKKKKKKKKKKKKKKK");
+
         }
     }
         public class Customer
